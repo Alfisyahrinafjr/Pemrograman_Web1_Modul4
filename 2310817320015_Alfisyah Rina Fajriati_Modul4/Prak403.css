@@ -1,0 +1,5 @@
+p.borderous{
+    border-style: double;
+    border-width: 5px 10px 1px medium;
+    border-color: #ff0000 #00ff00 #0000ff rgb(250,0,255);
+}
